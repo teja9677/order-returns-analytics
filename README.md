@@ -1,4 +1,4 @@
-# Order & Returns Analytics – D2C Fashion Brand (Urban Threads)
+# Order & Returns Analytics
 
 ## 📌 Project Overview
 This project presents an **end-to-end data analytics case study** focused on understanding and reducing high return rates for a Direct-to-Consumer (D2C) fashion brand. Using Q4 2024 e-commerce order data, the analysis replicates real-world work performed by an **Operations & Customer Analytics team**, covering data cleaning, validation, KPI development, trend analysis, segmentation, visualization, and business recommendations.
@@ -141,7 +141,7 @@ All inconsistencies were **flagged and documented**, not overwritten, ensuring a
 ---
 
 ## 📄 Final Report
-👉 [Final PDF Analysis & Recommendations Report](Project_Report.docx)
+👉 [Final PDF Analysis & Recommendations Report](report/Project_Report.docx)
 
 ---
 
